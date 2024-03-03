@@ -1,7 +1,7 @@
 # Standardize Website 
-This repository contains the website assets for the [Standardize](https://arxiv.org/abs/2402.12593) paper. This website is based on [Nerfies website](https://github.com/nerfies/nerfies.github.io).
+This repository contains the data, code, and website assets for the [Standardize](https://arxiv.org/abs/2402.12593) paper currently on Arxiv. The website is based on [Nerfies website](https://github.com/nerfies/nerfies.github.io).
 
-If you find the Standardize useful, please cite the paper:
+If you find the Standardize paper useful, please cite using the following:
 ```
 @article{imperial2024standardize,
       author    = {Imperial, Joseph Marvin and Forey, Gail and Tayyar Madabushi, Harish},
@@ -10,6 +10,12 @@ If you find the Standardize useful, please cite the paper:
      journal    = {arXiv preprint arXiv:2402.12593},
      URL        = {https://arxiv.org/abs/2402.12593}
     }
+```
+
+OR
+
+```
+Imperial, J. M., Forey, G., & Madabushi, H. T. (2024). Standardize: Aligning Language Models with Expert-Defined Standards for Content Generation. arXiv preprint arXiv:2402.12593.
 ```
 
 # Website License
