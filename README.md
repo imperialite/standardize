@@ -1,5 +1,5 @@
 # Standardize Website 
-This repository contains the data, code, and website assets for the [Standardize](https://arxiv.org/abs/2402.12593) paper currently on Arxiv. The website is based on [Nerfies website](https://github.com/nerfies/nerfies.github.io).
+This repository contains the data, code, and website assets for the [Standardize](https://imperialite.github.io/standardize/) paper currently on Arxiv. The website is based on [Nerfies website](https://github.com/nerfies/nerfies.github.io).
 
 If you find the Standardize paper useful, please cite using the following:
 ```
